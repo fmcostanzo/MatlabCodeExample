@@ -30,7 +30,6 @@ classdef SimpleCalculator
         % -----------------------------------------------------------------
         function r = plus(obj)
             r = obj.opnd_1 + obj.opnd_2;
-            % solo per verificare
         end
         
         % -----------------------------------------------------------------
